@@ -45,7 +45,7 @@ a {
 }
 /*Header styling ends here*/
 
-
+/* Body styling starts here */
 body {
     background-color: #d9dcd6;
 }
@@ -53,6 +53,7 @@ body {
 p {
     font-size: 16px;
 }
+/* Body styling ends here */
 
 /* Image styling starts here */
 .mainimage {
@@ -131,7 +132,7 @@ p {
 /* Aside styling ends here */
 
 
-/*Footer styling here*/
+/*Footer styling starts here*/
 footer {
     padding: 30px;
     clear: both;
@@ -142,3 +143,4 @@ footer {
 footer h4 {
     font-size: 20px;
 }
+/*Footer styling ends here*/
